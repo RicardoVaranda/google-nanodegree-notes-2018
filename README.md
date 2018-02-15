@@ -8,7 +8,7 @@ Udacity course and some hints to succeed course quizzes.
 
 ## AMA Sessions
 
-- [15/2/2018](AMA%20Sessions/15-2-2018) - General questions about the Scholarship program 
+- [15/2/2018](AMA%20Sessions/15-2-2018.md) - General questions about the Scholarship program 
 
 Your interest and any contribution to enrich/improve this repo content are highly appreciated.
 
